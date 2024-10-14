@@ -1,0 +1,27 @@
+[8088] IBM PC (1982)
+
+[Basic Details]
+
+Machine: [8088] IBM PC (1982)
+Machine type: [1979] 8088
+Chipset: Intel 8088-compatible
+Supported CPUs: Intel 8088, NEC V20
+FPU: 8087
+Minimum RAM: 64 kB
+Maximum RAM: 256 kB (Expandable to 512 kB using Microsoft RAMCard)
+Floppy Controller: Internal
+Hard Disk Controller: Supported (MFM, RLL, IDE, XTA, ESDI)
+Floppy Drive Support: 5.25” (180k/360k)
+Expansion Slots: 5x ISA slots
+Supported OSes: MS-DOS 1.25 to 5.00
+
+[Notes]
+
+1. MS-DOS requires a minimum of 32 kB RAM for versions 1 and 2, and 64 kB for version 3. Versions 4 and 5 require 128 kB to boot, and are not recommended for this machine. DOS 6 was not officially released on 360k floppies, but can be run if you install it to one. You will have the best results with PC-DOS 3.30.
+2. The BIOS is not configurable by the user.
+3. If booted without a floppy in the drive, the system will boot into BASIC. The only way to exit is to restart the machine by pressing Ctrl+Alt+Delete.
+4. When installing the RAMCard to expand memory, set the Start Address to 256.
+5. It is possible to increase RAM to 640K by using a second RAMCard, but this will use another ISA slot.
+6. The BIOS does not display a visual confirmation of the memory test on startup. If the memory is maxed out, it may take a minute or more to test the memory.
+7. To check available memory, run CHKDSK in DOS.
+
