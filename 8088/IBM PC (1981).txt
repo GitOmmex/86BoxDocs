@@ -12,6 +12,7 @@ Maximum RAM: 64 kB (Expandable to 544 kB using Microsoft RAMCards)
 Floppy Controller: Internal
 Hard Disk Controller: Not Supported
 Floppy Drive Support: 5.25” (180k/360k)
+RTC: Not included
 Expansion Slots: 5x ISA slots
 Supported OSes: MS-DOS 1.25 to 5.00
 
