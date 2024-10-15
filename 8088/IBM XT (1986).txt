@@ -1,14 +1,14 @@
-[8088] IBM XT (1982)
+[8088] IBM XT (1986)
 
 [Basic Details]
 
-Machine: [8088] IBM XT (1982)
+Machine: [8088] IBM XT (1986)
 Machine type: [1979] 8088
 Chipset: Intel 8088-compatible
 Supported CPUs: Intel 8088, NEC V20
 FPU: 8087
-Minimum RAM: 64 kB
-Maximum RAM: 256 kB (Expandable to 640 kB using IBM PC/XT Memory Expansion Option)
+Minimum RAM: 256 kB
+Maximum RAM: 640 kB
 Floppy Controller: Internal
 Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
 Floppy Drive Support: 5.25” (180k/360k)
@@ -22,7 +22,6 @@ Supported OSes: PC-DOS 2.0 to 5.00
 1. Not all versions of DOS 2 support hard disks. Using PC-DOS 2.0 or later is recommended.
 2. The BIOS is not configurable by the user.
 3. If booted without a floppy in the drive, the system will attempt to boot from hard disk
-4. When installing the Memory Expansion Option, set the Start Address to 256. It is recommended to use two Expansion Cards (256 + 128), to access the full 640k.
-5. Memory Test on boot can take a while with a 640k of RAM.
-6. To check available memory, run CHKDSK in DOS.
+4. Memory Test on boot can take a while with a 640k of RAM.
+5. To check available memory, run CHKDSK in DOS.
 
