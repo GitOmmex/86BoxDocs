@@ -12,7 +12,7 @@ Machine type: [1979] 8088
 Chipset: Intel 8088-compatible
 Supported CPUs: Intel 8088, NEC V20
 FPU: 8087
-Minimum RAM: 128 kB
+Minimum RAM: 64 kB
 Maximum RAM: 640 kB
 Floppy Controller: Internal
 Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
