@@ -1,0 +1,29 @@
+[8088] IBM PCjr
+
+[Basic Details]
+
+Machine: [8088] IBM PCjr
+Machine type: [1979] 8088
+Chipset: Intel 8088-compatible
+Supported CPUs: Intel 8088, NEC V20
+FPU: 8087
+Minimum RAM: 64 kB
+Maximum RAM: 640 kB (128 kB usable)
+Floppy Controller: Internal
+Hard Disk Controller: Not supported (requires special ROMs)
+Floppy Drive Support: 5.25” (180k/360k)
+RTC: Not included
+Expansion Slots: ISA (limited support)
+Ports: COM, LPT, ROM cartridge, Cassette Port
+Supported OSes: PC-DOS 2.10 to 3.30
+
+[Notes]
+
+1. PC-DOS 3.30 is the last officially supported version of PC-DOS. Later versions may work, but will be limited by lack of memory.
+2. The BIOS is not configurable by the user.
+3. If booted without a floppy in the drive, the system will boot into BASIC. The only way to exit is to restart the machine by pressing Ctrl+Alt+Delete.
+4. Although 86box supports 640k of RAM, only 112 kB is accessible in DOS.
+5. To check available memory, run CHKDSK in DOS.
+6. While the real PCjr can be equipped with a jrIDE card to use IDE hard disks, this is not emulated in 86box.
+7. Changing the video card is not possible.
+

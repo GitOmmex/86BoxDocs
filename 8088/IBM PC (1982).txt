@@ -14,6 +14,7 @@ Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
 Floppy Drive Support: 5.25” (180k/360k)
 RTC: Not included
 Expansion Slots: 5x ISA slots
+Ports: COM, LPT, Cassette Port
 Supported OSes: MS-DOS 1.25 to 5.00
 
 [Notes]
