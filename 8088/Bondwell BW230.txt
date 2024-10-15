@@ -1,5 +1,8 @@
 [8088] Bondwell BW230
 
+[History]
+The Bondwell PRO28 was an IBM PC clone.
+
 [Basic Details]
 
 Machine: [8088] Bondwell BW230

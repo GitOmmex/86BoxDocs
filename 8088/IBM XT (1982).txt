@@ -1,5 +1,10 @@
 [8088] IBM XT (1982)
 
+[History]
+The IBM PC/XT (eXtended Technology) Model 5160, was an incremental upgrade to the IBM PC.
+It offered increased expansion slots, more RAM, hard disk support, and removed the cassette interface.
+This version is limited to 256 kB onboard memory, and requires an Expansion Card to achieve 640 kB
+
 [Basic Details]
 
 Machine: [8088] IBM XT (1982)

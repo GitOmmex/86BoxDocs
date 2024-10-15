@@ -1,5 +1,9 @@
 [8088] IBM PCjr
 
+[History]
+The IBM PCjr was IBM's attempt to make a low cost variant of the IBM PC, designed for gaming.
+It was unsuccessful due to its poor software compatibility, limited expandability, and limited amount of RAM.
+
 [Basic Details]
 
 Machine: [8088] IBM PCjr

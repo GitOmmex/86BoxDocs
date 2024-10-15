@@ -1,5 +1,9 @@
 [8088] IBM PC (1981)
 
+[History]
+The IBM PC was the first x86 PC, and the progenitor of all machines emulated in 86box, as well as modern Windows machines.
+This specific machine is an original 1981 Model 5150 with a 5161 Expansion Unit. It does not support more than 544 kB of RAM.
+
 [Basic Details]
 
 Machine: [8088] IBM PC (1981)

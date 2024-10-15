@@ -1,4 +1,7 @@
-[8088] DBK PIM-TB10-Z
+[8088] DTK PIM-TB10-Z
+
+[History]
+The DTK PIM-TB10-Z is a PC/XT-compatible motherboard, used in custom builds. 
 
 [Basic Details]
 

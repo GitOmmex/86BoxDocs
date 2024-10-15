@@ -1,5 +1,10 @@
 [8088] Compaq Portable
 
+[History]
+
+The Compaq Portable was one of the first IBM PC clones, as well as one of the first 'portable' computers.
+The machine uses a unique CGA card, and will not display any output with the IBM cards.
+
 [Basic Details]
 
 Machine: [8088] Compaq Portable

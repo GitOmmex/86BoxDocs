@@ -1,5 +1,8 @@
 [8088] AMI XT Clone
 
+[History]
+This is a generic machine, using an AMIBIOS. This was a reverse-engineered clone of the IBM PC's BIOS, produced by American Megatrends (AMI).
+
 [Basic Details]
 
 Machine: [8088] AMI XT Clone
