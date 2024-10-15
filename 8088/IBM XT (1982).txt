@@ -15,7 +15,7 @@ Floppy Drive Support: 5.25” (180k/360k)
 RTC: Not included
 Expansion Slots: ISA
 Ports: COM, LPT
-Supported OSes: PC-DOS 2.0 to 5.00
+Supported OSes: PC-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
 
 [Notes]
 
@@ -24,5 +24,5 @@ Supported OSes: PC-DOS 2.0 to 5.00
 3. If booted without a floppy in the drive, the system will attempt to boot from hard disk
 4. When installing the Memory Expansion Option, set the Start Address to 256. It is recommended to use two Expansion Cards (256 + 128), to access the full 640k.
 5. Memory Test on boot can take a while with a 640k of RAM.
-6. To check available memory, run CHKDSK in DOS.
+6. Windows 2.1 386 will not work. Windows 3.1 onwards requires a 286 and 2 MB of RAM.
 
