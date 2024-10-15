@@ -25,3 +25,4 @@ Supported OSes: MS-DOS 1.25 to 5.00
 4. When installing the RAMCard to expand memory, set the Start Address to 64 for the first one to expand to 320 kB. If expanding to 544 kB, set the Start Address for the second RAMCard to 320. The machine will not boot with more than 544 kB of RAM.
 5. The BIOS does not display a visual confirmation of the memory test on startup. If the memory is maxed out, it may take a minute or more to test the memory.
 6. To check available memory, run CHKDSK in DOS.
+7. Does not support EGA graphics
