@@ -20,3 +20,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > AMI XT Clone
 >
 > Bondwell BW230
+>
+> Columbia Data Products MPC-1600
