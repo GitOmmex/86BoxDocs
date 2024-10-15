@@ -18,3 +18,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > American XT Computer
 >
 > AMI XT Clone
+>
+> Bondwell BW230

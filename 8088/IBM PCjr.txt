@@ -26,4 +26,5 @@ Supported OSes: PC-DOS 2.10 to 3.30
 5. To check available memory, run CHKDSK in DOS.
 6. While the real PCjr can be equipped with a jrIDE card to use IDE hard disks, this is not emulated in 86box.
 7. Changing the video card is not possible.
+8. Some applications may shift the display slightly to one side due to unconventional use of the PCjr video hardware. Unchecking the Apply overscan deltas option accessible through the internal video’s Configure button can help bring the display back into position.
 
