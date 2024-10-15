@@ -36,3 +36,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Hyosung Topstar 88T
 >
 > Hyundai SUPER-16T
+>
+> Hyundai SUPER-16TE
