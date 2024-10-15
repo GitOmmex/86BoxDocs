@@ -16,3 +16,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > IBM XT (1986)
 >
 > American XT Computer
+>
+> AMI XT Clone
