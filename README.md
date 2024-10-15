@@ -22,3 +22,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Bondwell BW230
 >
 > Columbia Data Products MPC-1600
+>
+> Compaq Portable
