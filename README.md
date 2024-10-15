@@ -44,3 +44,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Kaypro PC
 >
 > Micoms XL-7 Turbo
+>
+> Multitech PC-500
