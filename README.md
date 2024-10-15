@@ -34,3 +34,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > GLaBIOS
 >
 > Hyosung Topstar 88T
+>
+> Hyundai SUPER-16T

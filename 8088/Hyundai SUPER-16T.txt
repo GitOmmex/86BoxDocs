@@ -1,11 +1,12 @@
-[8088] Hyosung Topstar 88T
+[8088] Hyundai SUPER-16T
 
 [History]
-A Korean XT clone by Hysoung. Uses Award BIOS.
+An XT clone PC by Hyundai. Originally came with an 8 MHz 8088.
+Uses Falcon BIOS.
 
 [Basic Details]
 
-Machine: [8088] Hyosung Topstar 88T
+Machine: [8088] Hyundai SUPER-16T
 Machine type: [1979] 8088
 Chipset: Intel 8088-compatible
 Supported CPUs: Intel 8088, NEC V20
@@ -14,7 +15,7 @@ Minimum RAM: 128 kB
 Maximum RAM: 640 kB
 Floppy Controller: Internal
 Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
-Floppy Drive Support: 5.25” (180k/360k)
+Floppy Drive Support: 5.25” (180k/360k) 3.5" (360k/720k)
 RTC: Not included
 Expansion Slots: ISA
 Ports: COM, LPT
