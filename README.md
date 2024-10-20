@@ -60,3 +60,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Philips P3105/NMS9100
 >
 > Phoenix XT Clone
+>
+> Pravetz 16 / IMKO-4
