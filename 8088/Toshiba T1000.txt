@@ -1,21 +1,21 @@
-[8088] Tandy 1000 HX
+[8088] Toshiba T1000
 
 [History]
-Extremely popular XT clone. Has it's own unique video and sound cards. This version supports booting from hard disk.
+One of the first DOS laptops. Has a very unique 'Hard RAM' RAMdisk feature. It has DOS 2.11 in ROM.
 
 [Basic Details]
 
-Machine: [8088] Tandy 1000 HX
+Machine: [8088] Toshiba T1000
 Machine type: [1979] 8088
 Chipset: Intel 8088-compatible
 Supported CPUs: Intel 8088, NEC V20
 FPU: 8087
-Minimum RAM: 256 kB
-Maximum RAM: 640 kB
+Minimum RAM: 512 kB
+Maximum RAM: 1280 kB (640 kB RAM + 640 kB RAMdisk)
 Floppy Controller: Internal
 Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
 Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k)
-RTC: Not included
+RTC: Included
 Expansion Slots: ISA
 Ports: COM, LPT
 Supported OSes: MS-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
@@ -23,8 +23,9 @@ Supported OSes: MS-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
 [Notes]
 
 1. Not all versions of DOS 2 support hard disks. Using PC-DOS 2.0 or later is recommended.
-2. The BIOS is not configurable by the user.
-3. If booted without a floppy in the drive, the system will attempt to boot from hard disk.
+2. The BIOS is configurable by the user using the SETUP10 program on the BIOS ROM.
+3. If booted without a floppy in the drive, the system will attempt to boot from hard disk
 4. To check available memory, run CHKDSK in DOS.
 5. Windows 2.1 386 will not work. Windows 3.1 onwards requires a 286 and 2 MB of RAM.
-6. Uniquely, this system has DOS 2.11 in ROM. If booted without a hard disk or floppy, it will boot from that.
+6. The additional 640kB can be configured as a RAMdisk.
+
