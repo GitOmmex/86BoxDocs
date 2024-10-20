@@ -64,3 +64,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Pravetz 16 / IMKO-4
 >
 > Pravetz 16S / CPU12 Plus
+>
+> Sanyo SX-16
