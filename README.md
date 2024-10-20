@@ -70,3 +70,7 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Schneider EuroPC
 >
 > Super PC / TurboXT
+>
+> Tandy 1000 SX
+>
+> Tandy 1000 HX
