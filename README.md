@@ -58,3 +58,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Packard Bell PB8810
 >
 > Philips P3105/NMS9100
+>
+> Phoenix XT Clone
