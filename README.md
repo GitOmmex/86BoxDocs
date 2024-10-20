@@ -54,3 +54,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Olivetti M19
 >
 > OpenXT
+>
+> Packard Bell PB8810
