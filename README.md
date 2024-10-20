@@ -48,3 +48,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Multitech PC-500
 >
 > Multitech PC-700
+>
+> NCR PC4i
