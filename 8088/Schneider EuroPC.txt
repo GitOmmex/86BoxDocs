@@ -1,21 +1,21 @@
-[8088] Sanyo SX-16
+[8088] Schneider EuroPC
 
 [History]
-Japanese XT Clone by Sanyo.
+German XT Clone by Schneider. Uses Siemens 8088 CPUs.
 
 [Basic Details]
 
-Machine: [8088] Sanyo SX-16
+Machine: [8088] Schneider EuroPC
 Machine type: [1979] 8088
 Chipset: Intel 8088-compatible
-Supported CPUs: Intel 8088, NEC V20
+Supported CPUs: Intel 8088
 FPU: 8087
-Minimum RAM: 256 kB
+Minimum RAM: 512 kB
 Maximum RAM: 640 kB
 Floppy Controller: Internal
-Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
+Hard Disk Controller: Internal (XTA) (not working?)
 Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k)
-RTC: Included (date only)
+RTC: Included
 Expansion Slots: ISA
 Ports: COM, LPT
 Supported OSes: MS-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
@@ -27,4 +27,5 @@ Supported OSes: MS-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
 3. If booted without a floppy in the drive, the system will attempt to boot from hard disk
 4. To check available memory, run CHKDSK in DOS.
 5. Windows 2.1 386 will not work. Windows 3.1 onwards requires a 286 and 2 MB of RAM.
+6. Does not appear to be able to detect hard disk using internal controller. Use MFM instead.
 
