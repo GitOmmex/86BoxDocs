@@ -1,19 +1,19 @@
-[8088] Multitech PC-500
+[8088] Multitech PC-700
 
 [History]
-This is a single-board computer board, used in machines like the Acer 500+.
-This system does not appear to support Floppy drives.
+This is a single-board computer board, used in machines like the Acer 700+.
+Unlike the PC-500, this one does support FDDs with the internal controller.
 
 [Basic Details]
 
-Machine: [8088] Multitech PC-500
+Machine: [8088] Multitech PC-700
 Machine type: [1979] 8088
 Chipset: Intel 8088-compatible
 Supported CPUs: Intel 8088, NEC V20
 FPU: 8087
 Minimum RAM: 128 kB
 Maximum RAM: 640 kB
-Floppy Controller: Not included
+Floppy Controller: Internal
 Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
 Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k)
 RTC: Not included
@@ -28,4 +28,3 @@ Supported OSes: MS-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
 3. If booted without a floppy in the drive, the system will attempt to boot from hard disk
 4. To check available memory, run CHKDSK in DOS.
 5. Windows 2.1 386 will not work. Windows 3.1 onwards requires a 286 and 2 MB of RAM.
-6. To use a floppy disk, use the PC/XT Floppy Controller. Internal does not work.
