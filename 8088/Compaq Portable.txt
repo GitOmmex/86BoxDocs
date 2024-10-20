@@ -29,6 +29,5 @@ Supported OSes: MS-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
 3. If booted without a floppy in the drive, the system will attempt to boot from hard disk
 4. To check available memory, run CHKDSK in DOS.
 5. Windows 2.1 386 will not work. Windows 3.1 onwards requires a 286 and 2 MB of RAM.
-6. To expand to 640 kB, set the Start Address as 512, and the Memory Size as 128 on the Expansion Card.
-7. Use the Compaq CGA cards with this machine. IBM CGA cards will not work. Disable Snow Emulation for the card, to prevent noise when scrolling through text.
+6. Use the Compaq CGA cards with this machine. IBM CGA cards will not work. Disable Snow Emulation for the card, to prevent noise when scrolling through text.
 
