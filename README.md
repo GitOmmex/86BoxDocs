@@ -80,3 +80,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Vendex HeadStart Turbo 888-XT
 >
 > Xi8088
+>
+> Z-NIX PC-1600

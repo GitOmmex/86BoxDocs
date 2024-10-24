@@ -14,7 +14,7 @@ Minimum RAM: 64 kB
 Maximum RAM: 1024 kB (640 kB usable)
 Floppy Controller: Internal
 Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
-Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k)
+Floppy Drive Support: 5.25” (180k/360k/1.2 M), 3.5" (360k/720k/1.44M)
 RTC: Included
 Expansion Slots: ISA, ISA16
 Ports: COM, LPT, PS/2
@@ -28,4 +28,4 @@ Supported OSes: PC-DOS 2.0 to 5.00, Windows 1.0, 2.0, 2.1 286, 3.0
 4. Memory Test on boot can take a while with a 640k of RAM.
 5. To check available memory, run CHKDSK in DOS.
 6. Windows 2.1 386 will not work. Windows 3.1 onwards requires a 286 and 2 MB of RAM.
-7. Despite the BIOS mentioning support for 1.44 MB and 1.2 MB floppies, it does not seem to be possible to boot off them.
+7. IDE and ESDI do not appear to work.
