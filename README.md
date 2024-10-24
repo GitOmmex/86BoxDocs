@@ -6,6 +6,7 @@ This project is an attempt to document the various machines supported by 86box.
 If you find any errors in the info, notify a contributor, or fix it yourself with a commit.
 
 ## Currently Documented Machines:
+
 ### 8088
 > IBM PC (1981)
 >
@@ -92,3 +93,7 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Philips P3120
 >
 > [V20] PC-XT
+
+### 8086
+
+> Amstrad PC1512
