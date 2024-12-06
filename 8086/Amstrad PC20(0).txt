@@ -1,0 +1,27 @@
+[8086] Amstrad PC20(0)
+
+[History]
+Home Computer released in 1988. Also known as Sinclair PC200.
+
+[Basic Details]
+
+Machine: [8086] Amstrad PC20(0)
+Machine type: [1978] 8086
+Chipset: Intel 8086-compatible
+Supported CPUs: Intel 8086, NEC V30
+FPU: 8087
+Minimum RAM: 512 kB
+Maximum RAM: 640 kB
+Floppy Controller: Internal
+Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
+Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k)
+RTC: Included
+Expansion Slots: ISA
+Ports: COM, LPT
+Supported OSes: MS-DOS 2.0 to 6.22, Windows 1.0, 2.0, 2.1 286, 3.0
+
+[Notes]
+
+1. Configuring the BIOS requires an Amstrad system disk. A program called NVR.COM is needed.
+2. Uses a CGA card internally. Other video cards can be used.
+3. Comes with it's own Amstrad mouse.
