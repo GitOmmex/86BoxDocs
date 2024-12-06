@@ -97,3 +97,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 ### 8086
 
 > Amstrad PC1512
+>
+> Amstrad PC1640
