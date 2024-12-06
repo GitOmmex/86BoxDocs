@@ -1,11 +1,11 @@
-[8086] Amstrad PC20(0)
+[8086] Amstrad PPC512/640
 
 [History]
-Home Computer released in 1988. Based off the Amstrad PPC512. Also known as Sinclair PC200.
+Portable IBM PC compatibles by Amstrad.
 
 [Basic Details]
 
-Machine: [8086] Amstrad PC20(0)
+Machine: [8086] Amstrad PPC512/640
 Machine type: [1978] 8086
 Chipset: Intel 8086-compatible
 Supported CPUs: Intel 8086, NEC V30
@@ -23,5 +23,5 @@ Supported OSes: MS-DOS 2.0 to 6.22, Windows 1.0, 2.0, 2.1 286, 3.0
 [Notes]
 
 1. Configuring the BIOS requires an Amstrad system disk. A program called NVR.COM is needed.
-2. Uses a CGA card internally. Other video cards can be used.
+2. Uses a CGA/MDA-compatible card internally. Outputs to an LCD display, but can output to monitors too. Other video cards can be used.
 3. Comes with it's own Amstrad mouse.
