@@ -1,11 +1,11 @@
-[8086] Olivetti M21/24/24SP
+[8086] Olivetti M240
 
 [History]
-8086-based IBM PC-clone by Olivetti. Also known as Persona 1600, AT&T PC 6300, and Xerox 6060.
+8086-based IBM PC-clone by Olivetti. Successor to the Olivetti M24SP
 
 [Basic Details]
 
-Machine: [8086] Olivetti M21/24/24SP
+Machine: [8086] Olivetti M240
 Machine type: [1978] 8086
 Chipset: Intel 8086-compatible
 Supported CPUs: Intel 8086, NEC V30
@@ -23,6 +23,5 @@ Supported OSes: MS-DOS 2.0 to 6.22, Windows 1.0, 2.0, 2.1 286, 3.0
 [Notes]
 
 1. BIOS is non-configurable.
-2. Has an internal enhanced CGA card (EGC 2413)
-3. May have issues booting using internal HDD adapter. Use IBM Fixed Disk Adapter instead.
-4. Will not boot if a 3.5" drive is set as B. Use 3.5" drive only in A, or only use 5.25" drives.
+2. May have issues booting using internal HDD adapter. Use IBM Fixed Disk Adapter instead.
+3. Will not boot if a 3.5" drive is set as B. Use 3.5" drive only in A, or only use 5.25" drives.
