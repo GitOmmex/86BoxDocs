@@ -114,9 +114,9 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 >
 > Mazovia 1016
 >
-> Olivetti M21/24/24SP
->
-> Olivetti M240
+> Olivetti M21/24/24SP (Has issues, may be updated)
+> 
+> Olivetti M240 (Has issues, may be updated)
 >
 > Schetmash Iskra-3104
 >
