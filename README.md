@@ -113,3 +113,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Epson Equity LT
 >
 > Mazovia 1016
+>
+> Olivetti M21/24/24SP [Not working as of build 6434]
