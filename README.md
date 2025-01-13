@@ -123,3 +123,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Tandy 1000SL/2
 >
 > Toshiba T1200
+>
+> Victor V86P
