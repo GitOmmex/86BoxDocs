@@ -1,16 +1,16 @@
-[8086] Epson Equity LT
+[8086] Mazovia 1016
 
 [History]
-NEC V30-based portable by Epson. Released in 1987.
+Polish IBM PC clone designed in 1984. Uses a Ukrainian/Soviet 8086 clone.
 
 [Basic Details]
 
-Machine: [8086] Epson Equity LT
+Machine: [8086] Mazovia 1016
 Machine type: [1978] 8086
 Chipset: Intel 8086-compatible
-Supported CPUs: Intel 8086, NEC V30
+Supported CPUs: Kyiv Research Institute of Microdevices 8086 Clone
 FPU: 8087
-Minimum RAM: 640 kB
+Minimum RAM: 256 kB
 Maximum RAM: 640 kB
 Floppy Controller: Internal
 Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
@@ -22,5 +22,5 @@ Supported OSes: MS-DOS 2.0 to 6.22, Windows 1.0, 2.0, 2.1 286, 3.0
 
 [Notes]
 
-1. BIOS is configurable using a diagnostics disk.
-2. Has an internal (EGA?) video card. Supports other Video cards as well.
+1. BIOS is not configurable.
+2. Has a BASIC interpreter in ROM.

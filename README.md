@@ -111,3 +111,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Compaq Deskpro
 >
 > Epson Equity LT
+>
+> Mazovia 1016
