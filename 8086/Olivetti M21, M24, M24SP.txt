@@ -13,8 +13,8 @@ FPU: 8087
 Minimum RAM: 128 kB
 Maximum RAM: 640 kB
 Floppy Controller: Internal
-Hard Disk Controller: Internal 
-Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k)
+Hard Disk Controller: Internal (non-functional?)
+Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k) [A Drive only!]
 RTC: Included
 Expansion Slots: ISA
 Ports: COM, LPT
@@ -24,4 +24,5 @@ Supported OSes: MS-DOS 2.0 to 6.22, Windows 1.0, 2.0, 2.1 286, 3.0
 
 1. BIOS is non-configurable.
 2. Has an internal enhanced CGA card (EGC 2413)
-3. DOES NOT SEEM TO WORK AS OF BUILD 6434.
+3. Will not boot using internal HDD adapter. Use IBM Fixed Disk Adapter instead.
+4. Will not boot if a 3.5" drive is set as B. Use 3.5" drive only in A, or only use 5.25" drives.
