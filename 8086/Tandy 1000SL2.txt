@@ -1,0 +1,27 @@
+[8086] Tandy 1000SL/2
+
+[History]
+8086 version of the iconic Tandy 1000.
+
+[Basic Details]
+
+Machine: [8086] Tandy 1000SL/2
+Machine type: [1978] 8086
+Chipset: Intel 8086-compatible
+Supported CPUs: Intel 8086, NEC V30
+FPU: 8087
+Minimum RAM: 512 kB
+Maximum RAM: 640 kB
+Floppy Controller: Internal
+Hard Disk Controller: Supported (MFM, RLL, XTA, XTIDE)
+Floppy Drive Support: 5.25” (180k/360k), 3.5" (360k/720k)
+RTC: None
+Expansion Slots: ISA
+Ports: COM, LPT
+Supported OSes: MS-DOS 2.0 to 6.22, Windows 1.0, 2.0, 2.1 286, 3.0
+
+[Notes]
+
+1. BIOS is non-configurable.
+2. Video card cannot be changed. Uses internal Tandy video card. Also supports TNDY sound card.
+3. Cannot boot from hard disk.
