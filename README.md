@@ -117,3 +117,5 @@ If you find any errors in the info, notify a contributor, or fix it yourself wit
 > Olivetti M21/24/24SP
 >
 > Olivetti M240
+>
+> Schetmash Iskra-3104
