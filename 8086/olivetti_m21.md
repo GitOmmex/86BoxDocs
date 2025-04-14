@@ -24,4 +24,4 @@
 
 ## Links
 - [Wikipedia](https://en.wikipedia.org/wiki/Olivetti_M24)
-- [RetroWeb] (https://theretroweb.com/motherboards/s/olivetti-m24-m24sp)
+- [RetroWeb](https://theretroweb.com/motherboards/s/olivetti-m24-m24sp)

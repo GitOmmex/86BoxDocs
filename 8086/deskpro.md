@@ -22,4 +22,4 @@
 
 ## Links
 - [Wikipedia](https://en.wikipedia.org/wiki/Compaq_Deskpro)
-- [Centre for Computing History] (https://www.computinghistory.org.uk/det/7793/Compaq-Deskpro-Model-1/)
+- [Centre for Computing History](https://www.computinghistory.org.uk/det/7793/Compaq-Deskpro-Model-1/)

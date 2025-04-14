@@ -22,4 +22,4 @@ NEC V30-based portable by Epson. Released in **1987**.
 
 ## Links
 - [Wikipedia](https://en.wikipedia.org/wiki/Epson_Equity)
-- [Centre for Computing History] (https://www.computinghistory.org.uk/det/31220/Epson-Equity-LT/)
+- [Centre for Computing History](https://www.computinghistory.org.uk/det/31220/Epson-Equity-LT/)
