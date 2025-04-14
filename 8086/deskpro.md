@@ -1,10 +1,9 @@
-# Amstrad PC20(0)
-The Amstrad PC20(0) was a Home Computer released in **1988**. Based off the [Amstrad PPC512](ppc512.md). Also known as Sinclair PC200.
+# Compaq Deskpro
+8086-based IBM PC-clone by Compaq. First in the Deskpro line.
 
 ## Notes
-- Configuring the BIOS requires an Amstrad system disk. A program called NVR.COM is needed.
-- Uses a CGA card internally. Other video cards can be used.
-- Comes with its own Amstrad mouse.
+- BIOS is non-configurable.
+- Designed to work with Compaq CGA/EGA cards. IBM CGA cards will not work. EGA cards and MDA cards will work.
 
 ## General Info
 | Category | Values | Notes |
@@ -12,7 +11,7 @@ The Amstrad PC20(0) was a Home Computer released in **1988**. Based off the [Ams
 | Chipset | 8086-compatible | |
 | CPU types | Intel 8086; NEC V30 | |
 | FPU | 8087 | |
-| Memory | 512kB to 640kB | |
+| Memory | 128kB to 640kB | |
 | Floppy Controller | Internal | |
 | Hard Disk Controller | MFM, RLL, XTA, XTIDE | |
 | Floppy Drive Support | 5.25” (180k/360k), 3.5" (360k/720k) | |
@@ -22,4 +21,5 @@ The Amstrad PC20(0) was a Home Computer released in **1988**. Based off the [Ams
 | Supported OSes | MS-DOS 2.0 to 5.00; Windows 1.0 to 3.0 | |
 
 ## Links
-- [Wikipedia](https://en.wikipedia.org/wiki/Sinclair_PC200)
+- [Wikipedia](https://en.wikipedia.org/wiki/Compaq_Deskpro)
+- [Centre for Computing History] (https://www.computinghistory.org.uk/det/7793/Compaq-Deskpro-Model-1/)

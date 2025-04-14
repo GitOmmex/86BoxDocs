@@ -1,10 +1,10 @@
-# Amstrad PC20(0)
-The Amstrad PC20(0) was a Home Computer released in **1988**. Based off the [Amstrad PPC512](ppc512.md). Also known as Sinclair PC200.
+# Tandy 1000SL/2
+8086 version of the iconic Tandy 1000.
 
 ## Notes
-- Configuring the BIOS requires an Amstrad system disk. A program called NVR.COM is needed.
-- Uses a CGA card internally. Other video cards can be used.
-- Comes with its own Amstrad mouse.
+- BIOS is non-configurable.
+- Video card cannot be changed. Uses internal Tandy video card. Uses internal TNDY sound card.
+- Cannot boot from hard disk.
 
 ## General Info
 | Category | Values | Notes |
@@ -16,10 +16,11 @@ The Amstrad PC20(0) was a Home Computer released in **1988**. Based off the [Ams
 | Floppy Controller | Internal | |
 | Hard Disk Controller | MFM, RLL, XTA, XTIDE | |
 | Floppy Drive Support | 5.25” (180k/360k), 3.5" (360k/720k) | |
-| RTC | Included | |
+| RTC | None | |
 | Expansion Slots | ISA | |
 | Ports | COM, LPT | |
 | Supported OSes | MS-DOS 2.0 to 5.00; Windows 1.0 to 3.0 | |
 
 ## Links
-- [Wikipedia](https://en.wikipedia.org/wiki/Sinclair_PC200)
+- [Wikipedia](https://en.wikipedia.org/wiki/Tandy_1000#1000_SL_and_SL/2)
+- [RetroWeb] (https://theretroweb.com/motherboards/s/tandy-1000-sl-2)
