@@ -23,4 +23,4 @@
 
 ## Links
 - [Wikipedia](https://en.wikipedia.org/wiki/Tandy_1000#1000_SL_and_SL/2)
-- [RetroWeb] (https://theretroweb.com/motherboards/s/tandy-1000-sl-2)
+- [RetroWeb](https://theretroweb.com/motherboards/s/tandy-1000-sl-2)
